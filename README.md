@@ -11,4 +11,4 @@ funcionamento no github pages do seu usuário o deploy de um workflow com github
 actions. Cada participante deverá fazer um clone do repositório moisesAlc/HackCiCd
 (github.com), executando o workflow do repositório. Haverá dois jobs: o de teste e o de
 deploy. O de deploy depende do de testes para executar. O workflow terá erros. O grupo terá
-que corrigir os erros. 
+que corrigir os erros.  
